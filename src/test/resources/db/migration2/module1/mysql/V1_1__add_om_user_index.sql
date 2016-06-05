@@ -1,0 +1,1 @@
+create index idx_om_user_name on om_user(name);

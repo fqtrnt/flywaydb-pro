@@ -1,0 +1,12 @@
+target/
+.classpath
+.project
+.settings/
+.#webclasspath
+.tomcatplugin
+work/
+*.tmp
+*.swp
+bin/
+.checkstyle
+logs/
